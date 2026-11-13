@@ -1,5 +1,10 @@
 # dsa
-Algoritmos y estructuras de datos de *Introduction to Algorithms* (Cormen, Leiserson, Rivest y Stein, 3.ª y 4.ª ed.) en C99.
+
+> Algoritmos y estructuras de datos en [*Introduction to Algorithms*](https://mitpress.mit.edu/9780262046305/introduction-to-algorithms/) (Cormen, Leiserson, Rivest y Stein)
+
+Ada Lovelace, diagrama para el cálculo de los números de Bernoulli (Nota G, 1842):
+
+![Ada Lovelace, diagrama para el cálculo de los números de Bernoulli](https://upload.wikimedia.org/wikipedia/commons/c/cf/Diagram_for_the_computation_of_Bernoulli_numbers.jpg)
 
 ## Contenido
 
